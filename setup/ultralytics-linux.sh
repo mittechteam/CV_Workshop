@@ -9,5 +9,6 @@ cd CV_Workshop &&
 python3 -m venv env &&
 source env/bin/activate &&
 pip install --upgrade pip &&
-pip install -U ultralytics &&
+pip install -U ultralytics
+
 
