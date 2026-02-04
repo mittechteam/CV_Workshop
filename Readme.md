@@ -4,6 +4,20 @@
 ```
 python --version
 ```
+### Creatre Virtual Environment
+```
+python -m venv .venv
+```
+### Activate Virtual Environment
+1. Powershell (Windows):
+```
+.\.venv\Scripts\Activate.ps1
+```
+2. Linux/MacOS:
+```
+source .venv/bin/activate
+``` 
+
 ### Steps to Debug python path issue 
 1. **Open Environment Variables**
     - Press ``Win`` and search for Environment Variables
