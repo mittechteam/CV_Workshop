@@ -49,3 +49,6 @@ if (Get-Command git -ErrorAction SilentlyContinue) {
 } else {
     Write-Host "Installation failed. You may need to restart PowerShell or install Python manually from Python.org." -ForegroundColor Red
 }
+
+
+# Click ENTER to continue ->
